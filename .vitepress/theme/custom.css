@@ -1,0 +1,18 @@
+:root {
+  --vp-c-brand: #c0392b;
+  --vp-c-brand-light: #e74c3c;
+  --vp-c-brand-dark: #a93226;
+}
+
+.vp-doc table {
+  width: 100%;
+  display: table;
+}
+
+.vp-doc th {
+  background: var(--vp-c-bg-soft);
+}
+
+.vp-doc img {
+  border-radius: 8px;
+}

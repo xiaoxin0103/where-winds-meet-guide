@@ -1,0 +1,13 @@
+{
+  "name": "where-winds-meet-guide",
+  "version": "1.0.0",
+  "description": "English guide for Where Winds Meet (燕云十六声)",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
