@@ -25,11 +25,53 @@ export default defineConfig({
           text: '🏯 Sects Guide',
           items: [
             { text: 'Overview & Comparison', link: '/guides/sects/' },
-            { text: 'Thundercry Blade', link: '/guides/sects/thundercry-blade' },
-            { text: 'Panacea Fan', link: '/guides/sects/panacea-fan' },
-            { text: 'Infernal Twinblades', link: '/guides/sects/infernal-twinblades' },
-            { text: 'Mortal Rope Dart', link: '/guides/sects/mortal-rope-dart' },
-            { text: 'Velvet Shade', link: '/guides/sects/velvet-shade' }
+            { text: 'Well of Heaven (Thundercry Blade)', link: '/guides/sects/thundercry-blade' },
+            { text: 'Silver Needle (Panacea Fan)', link: '/guides/sects/panacea-fan' },
+            { text: 'Midnight Blades (Infernal Twinblades)', link: '/guides/sects/infernal-twinblades' },
+          ]
+        }
+      ],
+      '/guides/combat/': [
+        {
+          text: '⚔️ Combat & Builds',
+          items: [
+            { text: 'Weapon Types & Martial Arts', link: '/guides/combat/weapon-types' },
+            { text: 'Inner Arts System', link: '/guides/combat/inner-arts' },
+            { text: 'Gear Sets & Stats', link: '/guides/combat/gear-stats' },
+            { text: 'Advanced Mechanics', link: '/guides/combat/advanced-mechanics' },
+          ]
+        }
+      ],
+      '/guides/puzzles/': [
+        {
+          text: '🧩 Puzzle Guides',
+          items: [
+            { text: 'Puzzle Mystic Arts', link: '/guides/puzzles/mystic-arts' },
+            { text: 'Puzzle Types & Solutions', link: '/guides/puzzles/puzzle-types' },
+            { text: 'Qinghe Region Puzzles', link: '/guides/puzzles/qinghe' },
+            { text: 'Kaifeng Region Puzzles', link: '/guides/puzzles/kaifeng' },
+          ]
+        }
+      ],
+      '/guides/bosses/': [
+        {
+          text: '👹 Boss Guides',
+          items: [
+            { text: 'Boss Basics & Mechanics', link: '/guides/bosses/boss-basics' },
+            { text: 'Story Bosses (Ch.1-3)', link: '/guides/bosses/story-bosses' },
+            { text: 'World Bosses', link: '/guides/bosses/world-bosses' },
+            { text: 'Perception Forest Bosses', link: '/guides/bosses/perception-forest' },
+          ]
+        }
+      ],
+      '/guides/updates/': [
+        {
+          text: '🆕 Version Updates',
+          items: [
+            { text: 'v1.7 Patch Notes', link: '/guides/updates/patch-1-7' },
+            { text: 'v1.6 Guide (Qinchuan)', link: '/guides/updates/patch-1-6' },
+            { text: 'v1.5 Guide (Raging Tides)', link: '/guides/updates/patch-1-5' },
+            { text: 'Season Roadmap', link: '/guides/updates/roadmap' },
           ]
         }
       ]
