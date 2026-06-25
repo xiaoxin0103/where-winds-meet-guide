@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Where Winds Meet Guide',
   description: 'The ultimate English guide for Where Winds Meet (燕云十六声) — Sects, Builds, Puzzles, Bosses & more.',
   lang: 'en-US',
+  ignoreDeadLinks: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
