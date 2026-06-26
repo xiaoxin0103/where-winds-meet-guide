@@ -5,8 +5,27 @@ export default defineConfig({
   description: 'The ultimate English guide for Where Winds Meet (燕云十六声) — Sects, Builds, Puzzles, Bosses & more.',
   lang: 'en-US',
   ignoreDeadLinks: true,
+
+  // Sitemap for search engines
+  sitemap: {
+    hostname: 'https://where-winds-meet-guide.pages.dev'
+  },
+
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    // Open Graph (Facebook, Discord, etc.)
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Where Winds Meet Guide — Ultimate English Wiki' }],
+    ['meta', { property: 'og:description', content: 'Complete guides for all 11 sects, builds, puzzles, bosses, and updates. Updated daily.' }],
+    ['meta', { property: 'og:image', content: 'https://where-winds-meet-guide.pages.dev/og-image.png' }],
+    ['meta', { property: 'og:site_name', content: 'Where Winds Meet Guide' }],
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Where Winds Meet Guide — Ultimate English Wiki' }],
+    ['meta', { name: 'twitter:description', content: 'Complete guides for all 11 sects, builds, puzzles, bosses, and updates.' }],
+    // SEO
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['link', { rel: 'canonical', href: 'https://where-winds-meet-guide.pages.dev' }]
   ],
 
   themeConfig: {
@@ -88,6 +107,12 @@ export default defineConfig({
 
     search: {
       provider: 'local'
+    },
+
+    // Edit link and last updated
+    lastUpdated: true,
+    editLink: {
+      pattern: 'https://github.com/xiaoxin0103/where-winds-meet-guide/edit/main/:path'
     }
   }
 })

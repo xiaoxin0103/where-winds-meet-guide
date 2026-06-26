@@ -16,3 +16,56 @@
 .vp-doc img {
   border-radius: 8px;
 }
+
+/* Share buttons */
+.share-buttons {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid var(--vp-c-divider);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.share-label {
+  font-weight: 600;
+  margin-right: 4px;
+  color: var(--vp-c-text-2);
+}
+
+.share-btn {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: opacity 0.2s;
+}
+
+.share-btn:hover {
+  opacity: 0.8;
+  text-decoration: none;
+}
+
+.share-x {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+.share-fb {
+  background: #1877f2;
+  color: #fff;
+}
+
+.share-reddit {
+  background: #ff4500;
+  color: #fff;
+}
+
+.share-copy {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  border: 1px solid var(--vp-c-divider);
+}
