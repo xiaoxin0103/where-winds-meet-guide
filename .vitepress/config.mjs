@@ -47,6 +47,7 @@ export default defineConfig({
             { text: 'Well of Heaven (Thundercry Blade)', link: '/guides/sects/thundercry-blade' },
             { text: 'Silver Needle (Panacea Fan)', link: '/guides/sects/panacea-fan' },
             { text: 'Midnight Blades (Infernal Twinblades)', link: '/guides/sects/infernal-twinblades' },
+            { text: 'Nine Mortal Ways (Mortal Rope Dart)', link: '/guides/sects/mortal-rope-dart' },
           ]
         }
       ],
