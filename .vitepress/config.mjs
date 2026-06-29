@@ -48,6 +48,7 @@ export default defineConfig({
             { text: 'Silver Needle (Panacea Fan)', link: '/guides/sects/panacea-fan' },
             { text: 'Midnight Blades (Infernal Twinblades)', link: '/guides/sects/infernal-twinblades' },
             { text: 'Nine Mortal Ways (Mortal Rope Dart)', link: '/guides/sects/mortal-rope-dart' },
+            { text: 'Velvet Shade (Vernal Umbrella)', link: '/guides/sects/velvet-shade' },
           ]
         }
       ],

@@ -12,7 +12,7 @@ Everything you need to know about all 11 sects — weapons, playstyles, rules, a
 | 2 | **Silver Needle** | Panacea Fan, Inkwell Fan | Healer / Support | ★★★☆☆ | ✅ Joinable |
 | 3 | **Midnight Blades** | Infernal Twinblades | PvP DPS | ★★★★☆ | ✅ Joinable |
 | 4 | **Nine Mortal Ways** | Mortal Rope Dart | Trickster / Rogue | ★★★☆☆ | ✅ [Full Guide →](/guides/sects/mortal-rope-dart) |
-| 5 | **Velvet Shade** | Vernal Umbrella | Support-DPS / Social | ★★★★☆ | ✅ Joinable |
+| 5 | **Velvet Shade** | Vernal Umbrella | Support-DPS / Social | ★★★★☆ | ✅ [Full Guide →](/guides/sects/velvet-shade) |
 | 6 | **Raging Tides** | Heavenquaker Spear, Stormbreaker Spear | Frontline DPS/Tank | ★★★☆☆ | ✅ New (v1.5) |
 | 7 | **Hollow Vale** | Soulshade Umbrella | Heal-Poison Hybrid | ★★★★★ | 🔒 Locked |
 | 8 | **Lone Cloud** | Strategic Sword | Precision Duelist | ★★★★☆ | 🔒 Locked |
