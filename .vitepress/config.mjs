@@ -90,6 +90,7 @@ export default defineConfig({
         {
           text: '🆕 Version Updates',
           items: [
+            { text: '⛰️ Hidden Mountain DLC Preview', link: '/guides/updates/hidden-mountain-preview' },
             { text: 'v1.7 Patch Notes', link: '/guides/updates/patch-1-7' },
             { text: 'v1.6 Guide (Qinchuan)', link: '/guides/updates/patch-1-6' },
             { text: 'v1.5 Guide (Raging Tides)', link: '/guides/updates/patch-1-5' },
