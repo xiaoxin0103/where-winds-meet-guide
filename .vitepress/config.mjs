@@ -50,6 +50,7 @@ export default defineConfig({
             { text: 'Nine Mortal Ways (Mortal Rope Dart)', link: '/guides/sects/mortal-rope-dart' },
             { text: 'Velvet Shade (Vernal Umbrella)', link: '/guides/sects/velvet-shade' },
             { text: 'Raging Tides (Dual Spears)', link: '/guides/sects/raging-tides' },
+            { text: 'Lone Cloud (Strategic Sword)', link: '/guides/sects/lone-cloud-strategic-sword' },
           ]
         }
       ],
