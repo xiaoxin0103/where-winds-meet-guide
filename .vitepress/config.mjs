@@ -50,6 +50,7 @@ export default defineConfig({
             { text: 'Nine Mortal Ways (Mortal Rope Dart)', link: '/guides/sects/mortal-rope-dart' },
             { text: 'Velvet Shade (Vernal Umbrella)', link: '/guides/sects/velvet-shade' },
             { text: 'Raging Tides (Dual Spears)', link: '/guides/sects/raging-tides' },
+            { text: 'Hollow Vale (Soulshade Umbrella)', link: '/guides/sects/hollow-vale' },
             { text: 'Lone Cloud (Strategic Sword)', link: '/guides/sects/lone-cloud-strategic-sword' },
           ]
         }
@@ -91,6 +92,7 @@ export default defineConfig({
         {
           text: '🆕 Version Updates',
           items: [
+            { text: '🏡 v1.8: Companions Make Home', link: '/guides/updates/patch-1-8' },
             { text: '⛰️ Hidden Mountain DLC Preview', link: '/guides/updates/hidden-mountain-preview' },
             { text: 'v1.7 Patch Notes', link: '/guides/updates/patch-1-7' },
             { text: 'v1.6 Guide (Qinchuan)', link: '/guides/updates/patch-1-6' },
