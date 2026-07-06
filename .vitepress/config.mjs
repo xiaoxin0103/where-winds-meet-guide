@@ -52,6 +52,7 @@ export default defineConfig({
             { text: 'Raging Tides (Dual Spears)', link: '/guides/sects/raging-tides' },
             { text: 'Hollow Vale (Soulshade Umbrella)', link: '/guides/sects/hollow-vale' },
             { text: 'Lone Cloud (Strategic Sword)', link: '/guides/sects/lone-cloud-strategic-sword' },
+            { text: 'Masked Troupe (Performer)', link: '/guides/sects/masked-troupe' },
           ]
         }
       ],

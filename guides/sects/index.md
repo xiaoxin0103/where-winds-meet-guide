@@ -18,7 +18,7 @@ Everything you need to know about all 11 sects — weapons, playstyles, rules, a
 | 8 | **Lone Cloud** | Strategic Sword | Precision Duelist | ★★★★☆ | ✅ [Full Guide →](/guides/sects/lone-cloud-strategic-sword) |
 | 9 | **Inkbound Order** | TBD | Scholar / Lore | TBD | 🔒 Locked |
 | 10 | **Mohist Hill** | TBD | Pacifist / Support | TBD | 🔒 Locked |
-| 11 | **The Masked Troupe** | TBD | Performer | TBD | 🔒 Locked |
+| 11 | **The Masked Troupe** | TBD (Performance) | Performer / Social | ★★★☆☆ | ✅ [Full Guide →](/guides/sects/masked-troupe) |
 
 ---
 
@@ -77,6 +77,15 @@ Everything you need to know about all 11 sects — weapons, playstyles, rules, a
 - **Why it's exciting:** Two distinct spear styles, military brotherhood theme, brand new
 - **Rules:** Never retreat in Hero's Realm, maintain weekly drinking, repay debts with wine
 - **Watch out for:** Community knowledge is still developing (released April 2026)
+
+### 🎭 For Performers & Socializers: The Masked Troupe
+
+> *"I want to express myself through music and dance, not violence."*
+
+- **Weapon:** TBD (twindrums hinted, combat system not yet implemented)
+- **Why it's unique:** The game's only performance-based sect — the true "bard class" of Where Winds Meet
+- **Rules:** No begging, no partnership emotes, no marriage, maintain outfit, earn 1,000 weekly popularity
+- **Watch out for:** Combat martial arts are not yet available. Join for cosmetics and social gameplay, then switch to a combat sect.
 
 ---
 
