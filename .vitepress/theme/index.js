@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { h } from 'vue'
 import './custom.css'
+import './style.css'
 
 // Share buttons component
 const ShareButtons = {

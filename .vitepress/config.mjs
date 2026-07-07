@@ -93,6 +93,7 @@ export default defineConfig({
         {
           text: '🆕 Version Updates',
           items: [
+            { text: '🔥 July 10: Hangzhou + Tarkov', link: '/guides/updates/july-10-update' },
             { text: '🏡 v1.8: Companions Make Home', link: '/guides/updates/patch-1-8' },
             { text: '⛰️ Hidden Mountain DLC Preview', link: '/guides/updates/hidden-mountain-preview' },
             { text: 'v1.7 Patch Notes', link: '/guides/updates/patch-1-7' },

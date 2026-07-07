@@ -34,14 +34,48 @@ features:
 
 **Released:** November 2025 (Global) | **Platforms:** PC (Steam), PS5, iOS, Android | **Developer:** Everstone Studio / NetEase
 
+<div class="stat-grid">
+<div class="stat-card">
+<span class="stat-value">11</span>
+<span class="stat-label">Sects Covered</span>
+</div>
+<div class="stat-card">
+<span class="stat-value">50+</span>
+<span class="stat-label">Deep Guides</span>
+</div>
+<div class="stat-card">
+<span class="stat-value">Daily</span>
+<span class="stat-label">Updates</span>
+</div>
+<div class="stat-card">
+<span class="stat-value">100%</span>
+<span class="stat-label">English Coverage</span>
+</div>
+</div>
+
 ---
 
 ## Start Here
 
 New to the game? Follow this path:
 
-1. 🏯 **[Choose Your Sect](/guides/sects/)** — The most important decision you'll make
-2. ⚔️ **[Master Combat](/guides/combat/)** — Learn the mechanics behind every weapon
-3. 🧩 **[Solve Puzzles](/guides/puzzles/)** — Never get stuck on a puzzle again
-4. 👹 **[Beat Every Boss](/guides/bosses/)** — Strategies for every encounter
-5. 🆕 **[Track Updates](/guides/updates/)** — Stay current with the latest content
+<div class="step">
+<div class="step-num">1</div>
+<div><strong>🏯 <a href="/guides/sects/">Choose Your Sect</a></strong> — The most important decision you'll make. Compare all 11 sects side-by-side.</div>
+</div>
+<div class="step">
+<div class="step-num">2</div>
+<div><strong>⚔️ <a href="/guides/combat/">Master Combat</a></strong> — Learn the mechanics behind every weapon, martial art, and inner art.</div>
+</div>
+<div class="step">
+<div class="step-num">3</div>
+<div><strong>🧩 <a href="/guides/puzzles/">Solve Puzzles</a></strong> — Never get stuck again. Solutions for Qinghe, Kaifeng, and beyond.</div>
+</div>
+<div class="step">
+<div class="step-num">4</div>
+<div><strong>👹 <a href="/guides/bosses/">Beat Every Boss</a></strong> — Attack patterns, weaknesses, and proven tactics for every encounter.</div>
+</div>
+<div class="step">
+<div class="step-num">5</div>
+<div><strong>🆕 <a href="/guides/updates/">Track Updates</a></strong> — Stay current with every patch, expansion, and new content drop.</div>
+</div>
