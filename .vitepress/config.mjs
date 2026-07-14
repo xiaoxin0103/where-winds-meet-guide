@@ -93,6 +93,7 @@ export default defineConfig({
         {
           text: '🆕 Version Updates',
           items: [
+            { text: '🐍 Aug 7: White Snake + Drunken Fist', link: '/guides/updates/august-white-snake-update' },
             { text: '🔥 July 10: Hangzhou + Tarkov', link: '/guides/updates/july-10-update' },
             { text: '🏯 Hangzhou Exploration Guide', link: '/guides/updates/hangzhou-guide' },
             { text: '🏡 v1.8: Companions Make Home', link: '/guides/updates/patch-1-8' },
