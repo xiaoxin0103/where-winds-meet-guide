@@ -93,6 +93,7 @@ export default defineConfig({
         {
           text: '🆕 Version Updates',
           items: [
+            { text: '📊 July 2026 Build Tier List (NEW)', link: '/guides/updates/july-2026-build-tier-list' },
             { text: '🏔️ Hidden Mountain v2.0 Launch Guide (NEW)', link: '/guides/updates/hidden-mountain-v2-launch-guide' },
             { text: '🎯 Hidden Mountain v2.0 — July 23', link: '/guides/updates/hidden-mountain-v2-launch' },
             { text: '🥊 Gauntlets Weapon Guide (NEW)', link: '/guides/updates/gauntlets-weapon-guide' },
