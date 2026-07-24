@@ -96,6 +96,7 @@ export default defineConfig({
           items: [
             { text: '📊 July 2026 Build Tier List (NEW)', link: '/guides/updates/july-2026-build-tier-list' },
             { text: '🏔️ Hidden Mountain v2.0 Launch Guide (NEW)', link: '/guides/updates/hidden-mountain-v2-launch-guide' },
+            { text: '🗺️ Hidden Mountain Access & Map Layers Guide (NEW)', link: '/guides/updates/hidden-mountain-access-map-guide' },
             { text: '🎯 Hidden Mountain v2.0 — July 23', link: '/guides/updates/hidden-mountain-v2-launch' },
             { text: '🥊 Gauntlets Weapon Guide (NEW)', link: '/guides/updates/gauntlets-weapon-guide' },
             { text: '🐍 Aug 7: White Snake + Drunken Fist', link: '/guides/updates/august-white-snake-update' },
